@@ -31,6 +31,6 @@ The project mimics the look and feel of the official JBL website while offering 
 ## ⚠️ Disclaimer
 
 > This project is created **for educational purposes only** and is not intended for commercial use.  
-All rights to the original Netflix brand, assets, and design belong to their respective owners.
+All rights to the original JBL brand, assets, and design belong to their respective owners.
 
 ---
